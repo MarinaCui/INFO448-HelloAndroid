@@ -142,6 +142,11 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * the app name is "Hello": 1 pt
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
-    * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+> Shown in `/screenshots`
+
+   * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+> `Stay Awake`: Screen will never sleep while charging. This helps in development since the device will be connected to the computer.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
